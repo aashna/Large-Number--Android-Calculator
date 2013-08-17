@@ -1,0 +1,4 @@
+LIBRARY add.dll
+
+EXPORTS
+Java_com_example_calculator_Example_add
